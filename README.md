@@ -4,6 +4,8 @@
 
 The **Genomic Knowledge Retrieval-Augmented Generation (RAG) System** is an advanced AI-powered platform designed to answer genomic queries with high accuracy. This project integrates **AWS Bedrock, FAISS, and BERT** to provide precise mutation-related insights. A logistic regression model ranks retrieved results based on relevance, and evaluation metrics such as BLEU and Exact Match ensure high-quality responses. The system is deployed on AWS with **Terraform for infrastructure automation** and follows strict **security protocols** for genomic data handling.
 
+![Genomic Disease Retrieval](image.png)
+
 ---
 
 ## **1. Project Overview**
